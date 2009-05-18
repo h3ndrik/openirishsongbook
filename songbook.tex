@@ -1,0 +1,165 @@
+\documentclass[a4paper,10pt]{book}
+
+% histoire de ne plus être emmerdé avec les accents et autres conneries
+\usepackage[french]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+
+\usepackage[chordbk,compactsong]{songbook}
+\usepackage{musixtex}
+
+
+\begin{document}
+
+\title{\Large\bf Shiver Me Timbers \\ ~\\ Songs \begin{tiny}from the\end{tiny} Book}
+\author{Benjamin COUDRIN}
+\maketitle
+
+\makeTitleIndex
+
+%%%%%%%%%%% S E T - L I S T %%%%%%%%%%%%
+
+\chapter*{Songs from the Set-list}
+	\addcontentsline{toc}{chapter}{Songs from the Set-list}
+	\subsection*{KERNEL SET}
+
+		\begin{itemize}
+			\item Kesh Jig / Blackthorn Stick
+			\item Irish Rover
+			\item The Mermaid
+			\item Kerry Polka (Egan's Polka) / Britches Full Of Stitches / Finnish Polka
+			\item Johnny I Hardly Knew Ye
+			\item Whiskey In The Jar
+			\item Quinze Marins / Drunken Sailor
+			\item Dérobée de Guingamp
+			\item Morrison's Jig / Joe Cooley's Reel
+			\item Dirty Old Town
+			\item Le Forban
+			\item Drowsy Maggie / Glasgow's Reel
+			\item The Wild Rover
+			\item The Leprechaun
+			\item Rights of Men / The Pride of Petravore
+		\end{itemize}
+
+	\subsection*{OPTIONALS (sous réserve de travail)}
+		\begin{itemize}
+			\item The Jug Of Punch
+			\item Dans Les Prisons de Nantes
+			\item Banish Misfortune
+			\item Devil's Dream
+			\item Whiskey You're The Devil
+			\item Rocky Road To Dublin
+		\end{itemize}
+
+%%%%%%%%%%% S O N G S  F R O M  T H E  S E A %%%%%%%%%%%%
+
+\chapter{Songs from the sea}
+
+	\begin{song}{Irish Rover}{G}{~}{irish traditional}{}{}
+		\input irish_rover.tex
+	\end{song}
+
+	\begin{song}{The Mermaid}{G}{Child Ballad 289}{traditional}{}{}
+		\input mermaid.tex
+	\end{song}
+
+	\begin{song}{Quinze Marins (\textit{Dead Man's Chest})}{Dm}{~}{R.L. Stevenson and Y.E. Allison}{}{}
+		\input quinze_marins.tex
+	\end{song}
+
+	\begin{song}{Drunken Sailor}{Dm}{Capstan shanty}{traditional}{}{}
+		\input drunken_sailor.tex
+	\end{song}
+
+	\begin{song}{Le Forban (version de terre)}{C}{~}{traditionnel breton}{}{}
+		\input le_forban1.tex
+	\end{song}
+	
+	\begin{song}{Le Forban (version de mer)}{C}{~}{traditionnel breton}{}{}
+		\input le_forban2.tex
+	\end{song}
+
+%%%%%%%%% S O N G S  F R O M  T H E  B A T T L E F I E L D %%%%%%%%%
+
+\chapter{Songs from the battlefield}
+
+	\begin{song}{Johnny I Hardly Knew Ye}{Em}{~}{irish traditional}{}{}
+		\input johnny_i_hardly_knew_ye.tex
+	\end{song}
+
+%%%%%%%%% S O N G S  F R O M  T H E  R O A D %%%%%%%%%
+
+\chapter{Songs from the road}
+	
+	\begin{song}{Whiskey In The Jar}{G}{~}{irish traditional}{}{}
+		\input whiskey_in_the_jar.tex
+	\end{song}
+
+	\begin{song}{Rocky Road To Dublin}{Dm}{~}{irish traditional}{}{}
+		\input rocky_road_to_dublin.tex
+	\end{song}
+
+%%%%%%%%% S O N G S  F R O M  T H E  T O W N %%%%%%%%%%
+
+\chapter{Songs from the town}
+
+	\begin{song}{Dirty Old Town}{G}{~}{Ewan MacColl}{}{}
+		\input dirty_old_town.tex
+	\end{song}
+
+	\begin{song}{Dans les prisons de Nantes}{Am}{~}{traditionnel breton}{}{}
+		\input dans_les_prisons_de_nantes.tex
+	\end{song}
+
+	\begin{song}{Eileen Og}{Am}{~}{Percy French}{}{}
+		\input eileen_og.tex
+	\end{song}
+
+%%%%%%%%% S O N G S  F R O M  T H E  F I E L D S %%%%%%%%%%
+
+\chapter{Songs from the fields}
+
+	\begin{song}{The Leprechaun}{?}{St Patrick's Day song}{Marc Gunn}{}{}
+TODO : Chords
+		\input leprechaun.tex
+	\end{song}
+
+	\begin{song}{Kilkelly, Ireland}{Em}{~}{irish traditional}{}{}
+TODO : All
+	\end{song}
+
+%%%%%%%% S O N G S  F R O M  T H E  B O O Z E %%%%%%%%%
+
+\chapter{Songs from the booze}
+
+	\begin{song}{The Jug of Punch}{D}{~}{traditional}{}{}
+		\input jug_of_punch.tex
+	\end{song}
+
+	\begin{song}{Whiskey You're The Devil}{D}{~}{irish traditional}{}{}
+		\input whiskey_you_re_the_devil.tex
+	\end{song}
+
+%%%%%%%% S O N G S  F R O M  T H E  W O O D S %%%%%%%%
+
+\chapter{Songs from the woods}
+	NOTHING YET
+
+\begin{music}
+\parindent10mm
+\instrumentnumber{1}       % a single instrument
+\setname1{Piano}           % whose name is Piano
+\setstaffs1{2}             % with two staffs
+\generalmeter{\meterfrac44}% 4/4 meter chosen
+\startextract              % starting real score
+\Notes\ibu0f0\qb0{cge}\tbu0\qb0g|\hl j\en
+\Notes\ibu0f0\qb0{cge}\tbu0\qb0g|\ql l\sk\ql n\en
+\bar
+\Notes\ibu0f0\qb0{dgf}|\qlp i\en
+\notes\tbu0\qb0g|\ibbl1j3\qb1j\tbl1\qb1k\en
+\Notes\ibu0f0\qb0{cge}\tbu0\qb0g|\hl j\en
+\endextract                 % terminate excerpt
+\end{music}
+
+
+\end{document}
