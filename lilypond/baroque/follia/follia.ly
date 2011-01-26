@@ -23,9 +23,9 @@
 
 \book {
   \header {
-    title = \markup \center-column { "Follia" }
-    subtitle = "dalla Sonata XII in re minore"
-    instrument = \markup \bold \italic "per flauto e basso continuo"
+    title = "Follia"
+    subtitle = \markup \center-column { "dalla Sonata XII in re minore" \small \italic "per flauto e basso continuo" }
+    %%instrument = \markup \bold  
     subsubtitle = "opera seconda"
     %%poet = \markup \left-column {"edited and published by" "Benjamin Coudrin"}
     composer =  \markup \right-column { "Paolo Benedetto Bellinzani" \small "(1690-1757)" }
@@ -33,16 +33,60 @@
   }
 
   \score {
-    \include "adaggio.ly"
-    \header {
-      piece = \markup {\large "Adaggio"}
-    }
-  }
-  
-  \score {
-    \include "allegro.ly"
-    \header {
-      piece = \markup {\large "Allegro"}
+    \new ChoirStaff {
+      <<
+	\new Staff {
+	  \set Staff.instrumentName = "Flauto"
+	  \include "primo_flauto.ly"
+	  \include "secondo_flauto.ly"
+	  \include "terzo_flauto.ly"
+	  \include "quarto_flauto.ly"
+	  \include "quinto_flauto.ly"
+	  \include "sesto_flauto.ly"
+	  \include "settimo_flauto.ly"
+	  \include "ottavo_flauto.ly"
+	  \include "nono_flauto.ly"
+	  \include "decimo_flauto.ly"
+	  \include "undicesimo_flauto.ly"
+	  \include "dodicesimo_flauto.ly"
+	}
+	
+	\new FiguredBass \figuremode {
+	  \set figuredBassAlterationDirection = #LEFT
+	  \set figuredBassPlusDirection = #LEFT
+	  \override VerticalAxisGroup #'minimum-Y-extent = #'()
+	  \override BassFigureAlignment #'stacking-dir = #UP
+	  \override FiguredBass.BassFigure #'font-size = #-3
+	  \include "primo_continuo.ly"
+	  \include "secondo_continuo.ly"
+	  \include "terzo_continuo.ly"
+	  \include "quarto_continuo.ly"
+	  \include "quinto_continuo.ly"
+	  \include "sesto_continuo.ly"
+	  \include "settimo_continuo.ly"
+	  \include "ottavo_continuo.ly"
+	  \include "nono_continuo.ly"
+	  \include "decimo_continuo.ly"
+	  \include "undicesimo_continuo.ly"
+	  \include "dodicesimo_continuo.ly"
+	}
+	
+	\new Staff = bassStaff {
+	  \set Staff.instrumentName = "Basso"
+	  \include "primo_basso.ly"
+	  \include "secondo_basso.ly"
+	  \include "terzo_basso.ly"
+	  \include "quarto_basso.ly"
+	  \include "quinto_basso.ly"
+	  \include "sesto_basso.ly"
+	  \include "settimo_basso.ly"
+	  \include "ottavo_basso.ly"
+	  \include "nono_basso.ly"
+	  \include "decimo_basso.ly"
+	  \include "undicesimo_basso.ly"
+	  \include "dodicesimo_basso.ly"
+	}
+      >>
     }
   }
 }
