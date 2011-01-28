@@ -28,7 +28,7 @@
   a'8[ f d] a'8[ f d] a'8[ f d] 
   g8[ e c] g'8[ e c] g'8[ e cis]
   f8[ d a] bes'8[ g d] a8[ d cis]
-  d0
+  d2.~d4.
   
   \bar "||"
   \break
