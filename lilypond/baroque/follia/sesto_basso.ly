@@ -11,19 +11,19 @@
 
 \relative c {
   r2.
-  r2.
-  r2.
-  r2.
-  r2.
-  r2.
-  r2.
-  r2. 
-  r2.
-  r2.
-  r2.
-  r2.
-  r2.
-  r2.
-  r2.
-  r2. 
+  a'4 e8[ g f e]
+  f4 r2
+  c'4 g8[ bes a g]
+  a4 r2
+  c4 g8[ bes a g]
+  f4 bes4 g4
+  a4 e8[ g f e]
+  f4 r2
+  a4 e8[ g f e]
+  f4 r2
+  c'4 g8[ bes a g]
+  a4 r2
+  c4 g8[ bes a g]
+  f4 g4 a4
+  d2. 
 }

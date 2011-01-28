@@ -11,22 +11,23 @@
 
 \relative c'' {
   \mark \markup "6"
-  r2.
-  r2.
-  r2.
-  r2.
-  r2.
-  r2.
-  r2.
-  r2. 
-  r2.
-  r2.
-  r2.
-  r2.
-  r2.
-  r2.
-  r2.
-  r2. 
+  a'4 d,8[ f e d]
+  cis4 r2
+  a'4 d,8[ f e d]
+  e4 r2
+  f4 c8[ a' g f]
+  g4 r2
+  a4 d,8[ f e d]
+  cis4 r2
+  a'4 d,8[ f e d]
+  cis4 r2
+  a'4 d,8[ f e d]
+  e4 r2
+  f4 c8[ a' g f]
+  g4 r2
+  a4 d,8[ e a, cis]
+  d2.
   
   \bar "||"
+  \break
 }
