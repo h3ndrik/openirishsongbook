@@ -11,20 +11,20 @@
 
 \time 9/8
 \relative c {
-  r4. r4. r4.
-  r4. r4. r4.
-  r4. r4. r4.
-  r4. r4. r4.
-  r4. r4. r4.
-  r4. r4. r4.
-  r4. r4. r4.
-  r4. r4. r4.
-  r4. r4. r4.
-  r4. r4. r4.
-  r4. r4. r4.
-  r4. r4. r4.
-  r4. r4. r4.
-  r4. r4. r4.
-  r4. r4. r4.
-  r4. r4. r4.
+  d4. f4. d4.
+  cis4. a4. cis4.
+  d4. d4. d4.
+  e4. e4. e4.
+  f4. f4. f4.
+  c'4. c,4. cis4.
+  d4. d4. bes4.
+  a4. a4. a4.
+  d4. d4. d4.
+  cis4. a4. cis4.
+  d4. d4. d4.
+  e4. e4. e4.
+  f4. f4. f4.
+  c'4. c,4. cis4.
+  d4. g,4. a4.
+  d,2.~d4.
 }
