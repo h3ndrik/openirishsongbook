@@ -10,20 +10,20 @@
 %%  http://sam.zoy.org/wtfpl/COPYING for more details.
 
 \relative c {
-  r4. r4. r4.
-  r4. r4. r4.
-  r4. r4. r4.
-  r4. r4. r4.
-  r4. r4. r4.
-  r4. r4. r4.
-  r4. r4. r4.
-  r4. r4. r4.
-  r4. r4. r4.
-  r4. r4. r4.
-  r4. r4. r4.
-  r4. r4. r4.
-  r4. r4. r4.
-  r4. r4. r4.
-  r4. r4. r4.
-  r4. r4. r4.
+  d8[ f a] d,8[ f a] d,8[ f a]
+  cis,8[ e a] cis,8[ e a] cis,8[ e a]
+  d,8[ f a] d,8[ f a] d,8[ f a]
+  e8[ g c] e,8[ g c] e,8[ g c]
+  f,8[ a c] f,8[ a c] f,8[ a c]
+  e,8[ g c] e,8[ g c] e,8[ g cis]
+  d,8[ f a] c,8[ e a] bes,8[ d g]
+  a,8[ e' a] cis,8[ e a] cis,8[ e a]
+  d,8[ f a] d,8[ f a] d,8[ f a]
+  cis,8[ e a] cis,8[ e a] cis,8[ e a]
+  d,8[ f a] d,8[ f a] d,8[ f a]
+  e8[ g c] e,8[ g c] e,8[ g c]
+  f,8[ a c] f,8[ a c] f,8[ a c]
+  e,8[ g c] e,8[ g c] e,8[ g cis]
+  f,8[ a d] g,8[ bes d] a8[ d cis]
+  d2.~d4.
 }

@@ -11,22 +11,22 @@
 
 \relative c'' {
   \mark \markup "8"
-  r4. r4. r4.
-  r4. r4. r4.
-  r4. r4. r4.
-  r4. r4. r4.
-  r4. r4. r4.
-  r4. r4. r4.
-  r4. r4. r4.
-  r4. r4. r4.
-  r4. r4. r4.
-  r4. r4. r4.
-  r4. r4. r4.
-  r4. r4. r4.
-  r4. r4. r4.
-  r4. r4. r4.
-  r4. r4. r4.
-  r4. r4. r4.
+  f4. a4. f4.
+  e4. a4. e4.
+  f4. a4. f4.
+  g4. c4. g4.
+  a4. c4. a4.
+  g4. c4. g4.
+  f4. e4. d4.
+  cis4. a'4. e4.
+  f4. a4. f4.
+  e4. a4. e4.
+  f4. a4. f4.
+  g4. c4. g4.
+  a4. c4. a4.
+  g4. c4. g4.
+  f4. g4. e4.
+  d2.~d4.
   
   \bar "||"
   \break
