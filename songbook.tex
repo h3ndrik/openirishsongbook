@@ -1,6 +1,6 @@
 \documentclass[a4paper,10pt]{book}
 
-% histoire de ne plus Ãªtre emmerdÃ© avec les accents et autres conneries
+% histoire de ne plus être emmerdés avec les accents et autres conneries
 \usepackage[french]{babel}
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
@@ -8,6 +8,19 @@
 % les classes clefs pour la musique
 \usepackage[chordbk,compactsong]{songbook}
 \usepackage{musixtex}
+
+% numérotation des pages en chapter-page
+\makeatletter
+\renewcommand{\thepage}{\thechapter-\arabic{page}}
+\@addtoreset{page}{chapter}
+\def\@stpelt#1{\global\csname c@#1\endcsname
+               \expandafter\ifx \csname#1\endcsname \page
+                  \@ne
+               \else
+                  \z@ \fi}
+\makeatother
+
+
 
 \begin{document}
 
@@ -48,6 +61,54 @@
 %%%%%%%% S O N G S  F R O M  T H E  I N S T R U M E N T A L S %%%%%%%%
 \chapter{Songs from the instrumentals}
 	\input{instrumentals/instrumentals.tex}
+
+\appendix{Songs from the TODO list}
+Kesh jig / Blackthorn stick
+Irish rover
+Mermaid
+Eileen'og
+Polkas 1
+Johnny I hardly knew ye 
+Whiskey in the jar
+Quinze marins / Drunken sailor
+D\'erob\'ee de Guingamp
+Filles des forges
+Morrison's jig
+Dirty old town
+Forban
+Drowsy Maggie / Tam lynn
+Wild rover
+Polkas 2
+Leprechaun
+Rights of Man / Pride of Petravore
+Prisons de Nantes
+Jug of punch
+Whiskey you're the devil
+Sally Brown
+Don't get married girl
+Foggy dew
+Jzogyn bazjyn
+Paddy's return / up in the air / cliffs moher
+Molly Maguires
+John Kanak
+Fisher hornpipe / Saint-Anne's reel
+Kilkelly Ireland
+Polka Set 3 = Wedding Polka, Castleisland Polka, John Ryan Polka
+Rare old time
+Leaving of Liverpool
+Finnegan's wake
+Farewell to Tchernobyl
+Magpie Set
+Bugger Off
+Weile Weile Waile
+Tri Martolod
+Star of a County Down
+Galway Races
+Rocky Road to Dublin
+Black Velvet Band
+Fields of Athenrye
+Erin Go Ma Go Chri
+My Irish Molly O
 
 \end{document}
 % Fin du document
