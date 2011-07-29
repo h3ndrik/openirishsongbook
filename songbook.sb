@@ -18,6 +18,10 @@
 "version" : "1.0.0",
 "web" : "http://www.myspace.com/shivermetimbersofficial",
 "songs" : [
+    "Sea_Shanty/Drunken_Sailor.sg",
+    "Sea_Shanty/Le_Forban_version_de_mer_.sg",
+    "Sea_Shanty/Le_Forban_version_de_terre_.sg",
+    "Sea_Shanty/The_Mermaid.sg",
     "Traditional/Irish_Rover.sg",
     "Traditional/Johnny_I_Harldy_Knew_Ye_.sg",
     "Traditional/Rocky_Road_To_Dublin.sg",
