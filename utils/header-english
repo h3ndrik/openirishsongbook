@@ -1,0 +1,11 @@
+{
+"template" : "patacrep-en.tmpl",
+"bookoptions" : [
+    "diagram",
+    "lilypond",
+    "pictures"
+  ],
+"booktype" : "chorded",
+"subtitle" : "english songs",
+"title" : "Guitar Songbook",
+"songs" : [

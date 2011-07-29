@@ -1,0 +1,29 @@
+{
+"template" : "ancient.tmpl",
+"author" : "Benjamin Coudrin",
+"bookoptions" : [
+    "lilypond"
+  ],
+"booktype" : "chorded",
+"footer" : "\\begin{flushleft}Shiver Me Timbers\\end{flushleft}",
+"indexbgcolor" : "#D1E4AE",
+"license" : "\\input{license.tex}",
+"mail" : "benjamin.coudrin@gmail.com",
+"mainfontsize" : "10",
+"notebgcolor" : "#FFFDB3",
+"picture" : "shiver",
+"picturecopyright" : "WTFPL - Do What The Fuck You Want Public License",
+"songnumberbgcolor" : "#BA8D5A",
+"title" : "Shiver Me Timbers",
+"version" : "1.0.0",
+"web" : "http://www.myspace.com/shivermetimbersofficial",
+"songs" : [
+    "Traditional/Irish_Rover.sg",
+    "Traditional/Johnny_I_Harldy_Knew_Ye_.sg",
+    "Traditional/Rocky_Road_To_Dublin.sg",
+    "Traditional/The_Furze_in_Bloom_jig_.sg",
+    "Traditional/The_Jug_of_Punch.sg",
+    "Traditional/Whiskey_In_The_Jar.sg",
+    "Traditional/Whiskey_You_re_the_Devil.sg"
+  ]
+}

@@ -1,116 +1,113 @@
-\documentclass[a4paper,10pt]{book}
-
-% histoire de ne plus être emmerdés avec les accents et autres conneries
-\usepackage[french]{babel}
-\usepackage[utf8]{inputenc}
-\usepackage[T1]{fontenc}
-
-% les classes clefs pour la musique
-\usepackage[chordbk,compactsong]{songbook}
-\usepackage{musixtex}
-
-% numérotation des pages en chapter-page
+%% This file has been automatically generated, do not edit!
 \makeatletter
-\renewcommand{\thepage}{\thechapter-\arabic{page}}
-\@addtoreset{page}{chapter}
-\def\@stpelt#1{\global\csname c@#1\endcsname
-               \expandafter\ifx \csname#1\endcsname \page
-                  \@ne
-               \else
-                  \z@ \fi}
+\def\set@name#1{\def\getname{#1}}
+\set@name{songbook}
+\def\set@songslist#1{\def\getsongslist{#1}}
+\set@songslist{}
+\def\set@footer#1{\def\getfooter{#1}}
+\set@footer{\begin{flushleft}Shiver Me Timbers\end{flushleft}}
+\def\set@web#1{\def\getweb{#1}}
+\set@web{http://www.myspace.com/shivermetimbersofficial}
+\def\set@picture#1{\def\getpicture{#1}}
+\set@picture{shiver}
+\def\set@songnumberbgcolor#1{\def\getsongnumberbgcolor{#1}}
+\set@songnumberbgcolor{D1E4AE}
+\def\set@subtitle#1{\def\getsubtitle{#1}}
+\set@subtitle{}
+\def\set@license#1{\def\getlicense{#1}}
+\set@license{\input{license.tex}}
+\def\set@author#1{\def\getauthor{#1}}
+\set@author{Benjamin Coudrin}
+\def\set@picturecopyright#1{\def\getpicturecopyright{#1}}
+\set@picturecopyright{WTFPL - Do What The Fuck You Want Public License}
+\def\set@booktype#1{\def\getbooktype{#1}}
+\set@booktype{chorded}
+\def\set@mainfontsize#1{\def\getmainfontsize{#1}}
+\set@mainfontsize{10pt}
+\def\set@version#1{\def\getversion{#1}}
+\set@version{1.0.0}
+\def\set@mail#1{\def\getmail{#1}}
+\set@mail{benjamin.coudrin@gmail.com}
+\def\set@title#1{\def\gettitle{#1}}
+\set@title{Shiver Me Timbers}
+\def\set@notebgcolor#1{\def\getnotebgcolor{#1}}
+\set@notebgcolor{FFFDB3}
+\def\set@bookoptions#1{\def\getbookoptions{#1}}
+\set@bookoptions{lilypond}
+\def\set@indexbgcolor#1{\def\getindexbgcolor{#1}}
+\set@indexbgcolor{D1E4AE}
+\set@picture{shiver}
+\set@songnumberbgcolor{BA8D5A}
+\set@author{Benjamin Coudrin}
+\set@license{\input{license.tex}}
+\set@footer{\begin{flushleft}Shiver Me Timbers\end{flushleft}}
+\set@notebgcolor{FFFDB3}
+\set@booktype{chorded}
+\set@mainfontsize{10pt}
+\set@web{http://www.myspace.com/shivermetimbersofficial}
+\set@version{1.0.0}
+\set@title{Shiver Me Timbers}
+\set@picturecopyright{WTFPL - Do What The Fuck You Want Public License}
+\set@mail{benjamin.coudrin@gmail.com}
+\set@bookoptions{lilypond}
+\set@indexbgcolor{D1E4AE}
+\set@songslist{\graphicspath{
+  {songs/Traditional/},
+  {img//},
+  {songs/Irish_traditional/},
+}
+\input{songs/Irish_traditional/Irish_Rover.sg}
+\input{songs/Irish_traditional/Johnny_I_Harldy_Knew_Ye_.sg}
+\input{songs/Traditional/Rocky_Road_To_Dublin.sg}
+\input{songs/Traditional/The_Furze_in_Bloom_jig_.sg}
+\input{songs/Traditional/The_Jug_of_Punch.sg}
+\input{songs/Traditional/Whiskey_In_The_Jar.sg}
+\input{songs/Irish_traditional/Whiskey_You_re_the_Devil.sg}}
 \makeatother
+\documentclass[\getbooktype,\getbookoptions,\getmainfontsize]{crepbook}
+\usepackage[utf8]{inputenc}
+\usepackage[english,spanish,french]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{tex/venturisold}
 
+\title{\gettitle}
+\author{\getauthor}
+\subtitle{\getsubtitle}
+\version{\getversion}
+\mail{\getmail}
+\web{\getweb}
+\picture{\getpicture}
+\picturecopyright{\getpicturecopyright}
+\footer{\getfooter}
+\licence{\getlicense}
 
+\newindex{titleidx}{\getname_title}
+\newauthorindex{authidx}{\getname_auth}
+
+\graphicspath{
+  {img/},
+}
+
+\definecolor{SongNumberBgColor}{HTML}{\getsongnumberbgcolor}
+\definecolor{NoteBgColor}{HTML}{\getnotebgcolor}
+\definecolor{IndexBgColor}{HTML}{\getindexbgcolor}
+
+\renewcommand{\snumbgcolor}{SongNumberBgColor}
+\renewcommand{\notebgcolor}{NoteBgColor}
+\renewcommand{\idxbgcolor}{IndexBgColor}
+
+\renewcommand{\printchord}[1]{\mdseries\ttfamily\upshape#1}
+\pagestyle{empty}
 
 \begin{document}
 
-\title{\Large\bf Shiver Me Timbers \\ ~\\ Songs \begin{tiny}from the\end{tiny} Book}
-\author{Benjamin COUDRIN}
 \maketitle
 
-\makeTitleContents
+\showindex{Index des chansons}{titleidx}
 
-%%%%%%%%%%% S O N G S  F R O M  T H E  S E A %%%%%%%%%%%%
-\chapter{Songs from the sea}
-	\input{sea/sea.tex}
-
-%%%%%%%%% S O N G S  F R O M  T H E  B A T T L E F I E L D %%%%%%%%%
-\chapter{Songs from the battlefield}
-	\input{battlefield/battlefield.tex}
-	
-%%%%%%%%% S O N G S  F R O M  T H E  R O A D %%%%%%%%%
-\chapter{Songs from the road}
-	\input{road/road.tex}
-
-%%%%%%%%% S O N G S  F R O M  T H E  T O W N %%%%%%%%%%
-\chapter{Songs from the town}
-	\input{town/town.tex}
-
-%%%%%%%%% S O N G S  F R O M  T H E  F I E L D S %%%%%%%%%%
-\chapter{Songs from the fields}
-	\input{fields/fields.tex}
-	
-%%%%%%%% S O N G S  F R O M  T H E  B O O Z E %%%%%%%%%
-\chapter{Songs from the booze}
-	\input{booze/booze.tex}
-	
-%%%%%%%% S O N G S  F R O M  T H E  W O O D S %%%%%%%%
-\chapter{Songs from the woods}
-	\input{woods/woods.tex}
-
-%%%%%%%% S O N G S  F R O M  T H E  I N S T R U M E N T A L S %%%%%%%%
-\chapter{Songs from the dance}
-	\input{instrumentals/instrumentals.tex}
-	
-
-\chapter{Songs from the SET list}
-\begin{itemize}
-  \item Kesh jig / Blackthorn stick
-  \item Irish rover
-  \item Mermaid
-  \item Eileen'og
-  \item Polkas 1
-  \item Johnny I hardly knew ye 
-  \item Whiskey in the jar
-  \item Quinze marins / Drunken sailor
-  \item D\'erob\'ee de Guingamp
-  \item Filles des forges
-  \item Morrison's jig
-  \item Dirty old town
-  \item Forban
-  \item Drowsy Maggie / Tam lynn
-  \item Wild rover
-  \item Polkas 2
-  \item Leprechaun
-  \item Rights of Man / Pride of Petravore
-  \item Prisons de Nantes
-  \item Jug of punch
-  \item Whiskey you're the devil
-  \item Sally Brown
-  \item Foggy dew
-  \item Paddy's return / up in the air / cliffs moher
-  \item Molly Maguires
-  \item John Kanak
-  \item Fisher hornpipe / Saint-Anne's reel
-  \item Kilkelly Ireland
-  \item Polka Set 3 = Wedding Polka, Castleisland Polka, John Ryan Polka
-  \item Farewell to Tchernobyl
-  \item Magpie Set
-  \item Bugger Off
-  \item Weile Weile Waile
-  \item Rocky Road to Dublin
-\end{itemize}
-Black Velvet Band
-Fields of Athenrye
-Erin Ghra Mo Chroi
-My Irish Molly O
-Don't get married girl
-Rare old time
-Leaving of Liverpool
-Finnegan's wake
-Tri Martolod
-Star of a County Down
-Galway Races
+\songsection{Liste des chansons}
+\begin{songs}{titleidx,authidx}
+  \getsongslist
+\end{songs}
 
 \end{document}
-% Fin du document
