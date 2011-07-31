@@ -40,8 +40,10 @@
 \RequirePackage{graphicx,xcolor}
 \RequirePackage{songs}
 \RequirePackage{fancybox}
-\definecolor{tango-green-3}{HTML}{4e9a06}
-\definecolor{tango-blue-3}{HTML}{204a87}
+%\definecolor{tango-green-3}{HTML}{4e9a06}
+\definecolor{tango-green-3}{HTML}{BA8D5A}
+%\definecolor{tango-blue-3}{HTML}{204a87}
+\definecolor{tango-blue-3}{HTML}{BA8D5A}
 \RequirePackage[bookmarks,
   bookmarksopen,
   colorlinks=true,

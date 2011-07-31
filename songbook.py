@@ -64,7 +64,7 @@ def makeTexFile(sb, output):
     name = output[:-4]
 
     # default value
-    template = "patacrep.tmpl"
+    template = "ancient.tmpl"
     songs = []
 
     # parse the songbook data
