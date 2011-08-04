@@ -1,7 +1,16 @@
 \include "header"
-\paper{paper-height = 8\cm}
+\paper{paper-height = 8.5\cm}
 
 {
+<<
+  \chords {
+    \override ChordName #'font-size = #-1
+    \frenchChords
+    \repeat volta 2 {b2.:m d2. e2.:m fis2.:m b2.:m e4.:m fis4.:m e2.:m}
+    \alternative { {fis2.:m} {fis4.:m e4.:m} }
+    \repeat volta 2 {e2.:m b2.:m d2. fis2.:m e2.:m b2.:m e2.:m }
+    \alternative { {fis2.:m} {fis4.:m e4.:m} }
+  }
   \relative c'
   {
     \time 6/8 \key d \major
@@ -12,4 +21,5 @@
 		     e4. e8 fis fis e8 d b d4. e8 d b b8 a fis}
     \alternative { {a8 fis d e4 d'8} {a8 fis d e4.} }
   }
+>>
 }
