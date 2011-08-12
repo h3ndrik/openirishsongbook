@@ -1,0 +1,7 @@
+\selectlanguage{english}
+\songcolumns{2}
+\beginsong{Katie's Rambles}[by=Traditional]
+
+\lilypond{katies_rambles}
+
+\endsong
