@@ -2,5 +2,6 @@
 \songcolumns{2}
 \beginsong{Magpie's Nest}[by=Traditional]
 
+\lilypond{magpies_nest}
 
 \endsong
