@@ -2,5 +2,6 @@
 \songcolumns{2}
 \beginsong{Cliffs of Moher}[by=Traditional]
 
+\lilypond{cliffs_of_moher}
 
 \endsong
