@@ -2,5 +2,6 @@
 \songcolumns{2}
 \beginsong{Finnish Polka}[by=Traditional]
 
+\lilypond{finnish_polka}
 
 \endsong
