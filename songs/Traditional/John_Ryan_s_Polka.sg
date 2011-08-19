@@ -2,5 +2,6 @@
 \songcolumns{2}
 \beginsong{John Ryan's Polka}[by=Traditional]
 
+\lilypond{john_ryan}
 
 \endsong

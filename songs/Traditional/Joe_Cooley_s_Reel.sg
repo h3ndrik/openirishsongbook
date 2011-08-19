@@ -2,5 +2,6 @@
 \songcolumns{2}
 \beginsong{Joe Cooley's Reel}[by=Traditional]
 
+\lilypond{joe_cooley}
 
 \endsong
