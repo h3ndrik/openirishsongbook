@@ -2,5 +2,6 @@
 \songcolumns{2}
 \beginsong{Up In The Air}[by=Traditional]
 
+\lilypond{up_in_the_air}
 
 \endsong
