@@ -2,5 +2,6 @@
 \songcolumns{2}
 \beginsong{Pride of Petravore}[by=Traditional]
 
+\lilypond{pride_of_petravore}
 
 \endsong
