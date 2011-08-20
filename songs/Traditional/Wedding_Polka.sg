@@ -2,5 +2,6 @@
 \songcolumns{2}
 \beginsong{Wedding Polka}[by=Traditional]
 
+\lilypond{wedding_polka}
 
 \endsong
