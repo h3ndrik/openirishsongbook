@@ -2,5 +2,6 @@
 \songcolumns{2}
 \beginsong{Rights of Man}[by=Traditional]
 
+\lilypond{rights_of_man}
 
 \endsong
