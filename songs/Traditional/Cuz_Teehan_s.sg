@@ -1,0 +1,7 @@
+\selectlanguage{english}
+\songcolumns{2}
+\beginsong{Cuz Teehan's}[by=Traditional]
+
+\lilypond{cuz_teehans}
+                                     
+\endsong

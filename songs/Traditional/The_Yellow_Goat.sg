@@ -1,0 +1,7 @@
+\selectlanguage{english}
+\songcolumns{2}
+\beginsong{The Yellow Goat}[by=Traditional]
+
+\lilypond{the_yellow_goat}
+                  
+\endsong
