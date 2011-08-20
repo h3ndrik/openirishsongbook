@@ -2,5 +2,6 @@
 \songcolumns{2}
 \beginsong{King of The Fairies}[by=Traditional]
 
+\lilypond{king_of_the_faeries}
 
 \endsong
