@@ -1,6 +1,6 @@
 {
 "template" : "ancient.tmpl",
-"author" : "Benjamin Coudrin",
+"author" : "h3ndrik",
 "bookoptions" : [
     "lilypond"
   ],
@@ -8,15 +8,15 @@
 "footer" : "\\begin{flushleft}Shiver Me Timbers\\end{flushleft}",
 "indexbgcolor" : "#BA8D5A",
 "license" : "\\input{license.tex}",
-"mail" : "benjamin.coudrin@gmail.com",
+"mail" : "dev@h3ndrik.de",
 "mainfontsize" : "10",
 "notebgcolor" : "#FFFDB3",
 "picture" : "shiver",
 "picturecopyright" : "WTFPL - Do What The Fuck You Want Public License",
 "songnumberbgcolor" : "#BA8D5A",
-"title" : "Shiver Me Timbers",
-"version" : "1.0.0",
-"web" : "http://www.myspace.com/shivermetimbersofficial",
+"title" : "The Incomplete Irish..",
+"version" : "0.0.0",
+"web" : "http://h3ndrik.de",
 "songs" : [
     "Ewan_McColl/Dirty_Old_Town.sg",
     "Jean_Schwartz/My_Irish_Molly_O.sg",
