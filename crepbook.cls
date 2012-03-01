@@ -230,10 +230,11 @@
   a4paper % paper size
   ,includeheadfoot % include header and footer into text size
   ,hmarginratio=1:1 % ratio between inner and outer margin (default)
-  ,outer=1.8cm % outer margin (right)
+  ,outer=0.5cm % outer margin (right)
   ,vmarginratio=1:1 % ratio between top and bottom margin
-  ,bmargin=1.3cm % bottom margin
-% ,bindingoffset=1.7cm % space reserved to bound pages together
+  ,bmargin=0.5cm % bottom margin
+  ,bindingoffset=1.7cm % space reserved to bound pages together
+  ,twoside
   ]{geometry}
 
 % Paragraph indentation space
