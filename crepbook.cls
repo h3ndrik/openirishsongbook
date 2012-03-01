@@ -227,7 +227,7 @@
 % Customization of the page appearance
 %
 \RequirePackage[
-  a5paper % paper size
+  a4paper % paper size
   ,includeheadfoot % include header and footer into text size
   ,hmarginratio=1:1 % ratio between inner and outer margin (default)
   ,outer=0.5cm % outer margin (right)
