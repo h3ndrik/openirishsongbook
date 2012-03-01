@@ -41,6 +41,7 @@ endif
 
 
 LATEX=pdflatex $(LATEX_OPTIONS)
+CROP=pdfcrop
 
 ############################################################
 ### Targets
@@ -85,6 +86,7 @@ $(PDF): %.pdf: %.tex %.aux
 
 %.pdf: %.ly
 	@$(LILYPOND) --output=$(@:%.pdf=%) $<
+	$(CROP) $@ $@
 #	@rm $(@:%.pdf=%.ps)
 
 $(CHORDS): $(CHORDS_SRC)
