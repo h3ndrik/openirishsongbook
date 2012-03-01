@@ -5,7 +5,7 @@
     "lilypond"
   ],
 "booktype" : "chorded",
-"footer" : "\\begin{flushleft}Shiver Me Timbers\\end{flushleft}",
+"footer" : "\\begin{flushleft}No Irish Laddie!\\end{flushleft}",
 "indexbgcolor" : "#BA8D5A",
 "license" : "\\input{license.tex}",
 "mail" : "dev@h3ndrik.de",
@@ -15,7 +15,7 @@
 "picturecopyright" : "WTFPL - Do What The Fuck You Want Public License",
 "songnumberbgcolor" : "#BA8D5A",
 "title" : "The Incomplete Irish..",
-"version" : "0.0.2",
+"version" : "0.0.3",
 "web" : "http://h3ndrik.de",
 "songs" : [
     "Traditional/All_for_me_Grog.sg",
