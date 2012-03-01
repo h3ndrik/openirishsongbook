@@ -85,7 +85,7 @@ $(PDF): %.pdf: %.tex %.aux
 
 %.pdf: %.ly
 	@$(LILYPOND) --output=$(@:%.pdf=%) $<
-	@rm $(@:%.pdf=%.ps)
+#	@rm $(@:%.pdf=%.ps)
 
 $(CHORDS): $(CHORDS_SRC)
 	$(MAKE_CHORDS) -o $@
