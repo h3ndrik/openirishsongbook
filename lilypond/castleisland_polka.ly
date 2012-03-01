@@ -5,7 +5,6 @@
   
 <<
   \chords {
-    \frenchChords
     \partial 16 r16
     \repeat volta 2 {d4 g4 d2 a2 d2 d4 g4 d2 a2}
     \alternative{{d2}{d2}}

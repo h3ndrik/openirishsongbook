@@ -5,7 +5,6 @@
 <<
   \chords {
     \override ChordName #'font-size = #-1
-    \frenchChords
     \repeat volta 2 {b2.:m d2. e2.:m fis2.:m b2.:m e4.:m fis4.:m e2.:m}
     \alternative { {fis2.:m} {fis4.:m e4.:m} }
     \repeat volta 2 {e2.:m b2.:m d2. fis2.:m e2.:m b2.:m e2.:m }
