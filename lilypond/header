@@ -5,6 +5,8 @@
   %make-footer=##f
   %make-header=##f
 
+  tagline = ##f
+
   left-margin = 0\cm
   top-margin = 0\cm
   bottom-margin = 0\cm
