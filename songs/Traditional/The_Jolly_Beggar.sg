@@ -1,0 +1,46 @@
+\selectlanguage{english}
+\songcolumns{2}
+\beginsong{Jolly Beggar}[by=Traditional]
+
+\lilypond{the_jolly_beggar}
+
+\beginverse
+It's of a jolly beggarman came tripping o'er the plain
+He came unto a farmer's door a lodging for to gain
+The farmer's daughter she came down and viewed him cheek and chin
+She says: "He is a handsome man, I pray you take him in"
+\endverse
+
+\beginchorus
+We'll go no more aroving, aroving in the night
+We'll go no more aroving, let the moon shine so bright
+We'll go no more aroving
+\endchorus
+
+\beginverse
+He would not lie within the barn nor yet within the byre
+But he would in the corner lie down by the kitchen fire
+Oh then the beggar's bed was made of good clean sheets and hay
+And down beside the kitchen fire the jolly beggar lay
+\endverse
+
+\beginverse
+The farmer's daughter she got up to bolt the kitchen door
+And there she saw the beggar standing naked on the floor
+He took the daughter in his arms and to the bed he ran
+"Kind sir" she says "Be easy now, you'll waken our good man"
+\endverse
+
+\beginverse
+"Now you are no beggar, you are some gentleman,
+For you have stolen my maidenhead and I am quite undone"
+"I am no lord, I am no squire, of beggars I be one,
+And beggars they be robbers all, so you are quite undone"
+\endverse
+
+\beginverse
+She took her bed in both her hands and threw it at the wall
+Says "Go ye with the beggarman, my maidenhead and all!"
+\endverse
+
+\endsong

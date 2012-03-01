@@ -1,0 +1,28 @@
+\selectlanguage{english}
+\songcolumns{2}
+\beginsong{Parting Glass}[by=Traditional]
+
+\lilypond{the_parting_glass}
+
+\beginverse
+Of all the money that ere I had, I spent it in good company.
+And of all the harm that ere I've done, alas was done to none but me.
+And all I've done for want of wit, to memory now I cannot recall.
+So fill me to the parting glass. Goodnight and joy be with you all.
+\endverse
+
+\beginverse
+Of all the comrades that ere I had, they're sorry for my going away,
+And of all the sweethearts that ere I had , they wish me one more day to stay,
+But since it falls unto my lot that I should rise while you should not,
+I will gently rise and I'll softly call, "Goodnight and joy be with you all!"
+\endverse
+
+\beginverse
+Oh, if I had money enough to spend and leisure time to sit awhile
+There is a fair maid in this town that sorely has my heart beguiled
+Her rosey cheeks and ruby lips, she alone has my heart in thrall.
+So fill me to the parting glass. Goodnight and joy be with you all.
+\endverse
+
+\endsong

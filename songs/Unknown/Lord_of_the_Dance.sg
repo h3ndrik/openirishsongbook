@@ -1,0 +1,49 @@
+\selectlanguage{english}
+\songcolumns{2}
+\beginsong{Lord of the Dance}[by=Sydney Carter]
+
+\lilypond{lord_of_the_dance}
+
+\beginverse
+I danced in the morning when the world was young,
+I danced in the moon and the stars and the sun,
+I came down from heaven and I danced on the earth
+At Bethlehem I had my birth.
+\endverse
+
+\beginchorus
+Dance, dance, wherever you may be,
+I am the Lord of the Dance, said he.
+I'll lead you all, wherever you may be
+And I'll lead you all in the dance, said he.
+\endchorus
+
+\beginverse
+I danced for the scribes and the pharisees,
+They wouldn't dance and they wouldn't follow me.
+I danced for the fishermen James and John.
+They followed me and the dance went on.
+\endverse
+
+\beginverse
+I danced on the Sabbath and I cured the lame,
+The Holy People said it was a shame.
+They whipped me, stripped me, and hung me high
+And left me there on the cross to die.
+\endverse
+
+\beginverse
+I danced on a Friday when the world turned black
+It's hard to dance with the devil on your back
+They buried my body, they thought I was gone
+But I am the dance, and the dance goes on
+\endverse
+
+\beginverse
+They cut me down and I leapt up high
+I am the life that will never, never die
+I'll live in you if you'll live in me
+I am the Lord of the dance, said he
+\endverse
+
+\endsong

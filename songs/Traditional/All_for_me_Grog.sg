@@ -1,0 +1,35 @@
+\selectlanguage{english}
+\songcolumns{2}
+\beginsong{All for me Grog}[by=Traditional]
+
+\lilypond{all_for_me_grog}
+
+\beginchorus
+And it's all for me grog, me jolly, jolly grog
+All for me beer and tobacco
+Well I spent all me tin on the lassies drinking gin
+Across the western ocean I must wander
+\endchorus
+
+\beginverse
+Where are me boots, me noggin, noggin boots
+they're all gone for beer and tobacco
+For the heels they are worn out and the toes are kicked about
+And the soles are looking for better weather
+\endverse
+
+\beginverse
+Where is me shirt me noggin, noggin shirt
+It's all gone for beer and tobacco
+For the collar is all worn and the sleeves they are all torn
+And the tail is looking for better weather
+\endverse
+
+\beginverse
+I'm sick in the head and I haven't gone to bed
+Since I first came ashore from me slumber
+For I spent all me dough on the lassies don't you know
+Far across the western ocean I must wander
+\endverse
+
+\endsong

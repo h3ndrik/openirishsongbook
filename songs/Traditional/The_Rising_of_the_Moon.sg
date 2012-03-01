@@ -1,0 +1,71 @@
+\selectlanguage{english}
+\songcolumns{2}
+\beginsong{Rising of the Moon}[by=John Keegan Casey]
+
+\lilypond{the_rising_of_the_moon}
+
+\beginverse
+Oh, then tell me Sean O'Farrell,
+tell me why you hurry so?
+Husha buachill hush and listen
+and his cheeks were all aglow,
+I bare orders from the captain,
+get you ready quick and soon,
+For the pikes must be together
+by The Rising Of The Moon.
+
+  By the Rising Of The Moon,
+  By the Rising Of The Moon,
+  For the pikes must be together
+  By the Rising Of The Moon.
+\endverse
+
+\beginverse
+And come tell me Sean O'Farrell,
+where the gathering is to be?
+At the old spot by the river,
+quite well known to you and me.
+One more word for signal token
+whistle out the marchin' tune.
+With your pike upon your shoulder
+by The Rising Of The Moon.
+
+  By the Rising Of The Moon,
+  By the Rising Of The Moon,
+  With your pike upon your shoulder
+  By the Rising Of The Moon.
+\endverse
+
+\beginverse
+Out of many a mud wall cabin
+eyes were watching through the night
+Many a manly heart was beating
+for the blessed warning light
+Murmurs rang along the valleys,
+to the banshees lonely croon,
+And a thousand pikes were flashing
+by The Rising Of The Moon.
+
+  By the Rising Of The Moon,
+  By the Rising Of The Moon,
+  And a thousand pikes were flashing
+  By the Rising Of The Moon.
+\endverse
+
+\beginverse
+All along that singing river
+that dark mass of men was seen.
+High above their shining weapons
+hung their own beloved green.
+Death to every foe and traitor!
+Whistle out the marching tune.
+And hurrah, me boys, for freedom,
+'Tis The Rising Of The Moon.
+
+  'Tis the Rising Of The Moon,
+  'tis the Rising Of The Moon,
+  And hurrah, me boys, for freedom,
+  Tis the Rising Of The Moon.
+\endverse
+
+\endsong

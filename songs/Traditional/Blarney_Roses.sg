@@ -1,0 +1,42 @@
+\selectlanguage{english}
+\songcolumns{2}
+\beginsong{Blarney Roses}[by=Traditional]
+
+\lilypond{blarney_roses}
+
+\beginchorus
+Can anybody tell me where the Blarney Roses grow?
+It may be down in Limerick town or over in Mayo.
+It's somewhere in the Em'rald Isle, but this I want to know:
+Can anybody tell me where the Blarney Roses grow?
+\endchorus
+
+\beginverse
+'Twas over in ould Ireland near the town of Cushendall,
+One morn I met a damsel there, the fairest of them all.
+'Twas with my young affections and my money did she go,
+And she told me she belonged to where the Blarney Roses grow.
+\endverse
+
+\beginverse
+Her cheeks were like the roses, her hair a raven hue.
+Before that she was done with me, she had me raving too.
+She left me sorely stranded, not a coin she left, you know,
+And she told me she belonged to where the Blarney Roses grow.
+\endverse
+
+\beginverse
+They've roses in Killarney, and the same in County Clare,
+But 'pon my word those roses, boys, I can't see anywhere.
+She blarney'd me and, by the powers, she left me broke -- ho, ho! --
+Did this damsel that belonged to where the Blarney Roses grow.
+\endverse
+
+\beginverse
+Acushla gra-machree, me boys, she murmured soft, did she,
+"If you belong to Ireland, it's yourself belongs to me."
+Her Donegal come-all-ye brogue, it captured me, you know.
+Bad scram to her and that same place, where the Blarney Roses grow.
+\endverse
+
+\endsong

@@ -1,0 +1,40 @@
+\selectlanguage{english}
+\songcolumns{2}
+\beginsong{Arthur Mac Bride}[by=Traditional]
+
+\lilypond{arthur_mac_bride}
+
+\beginverse
+I \[G]had a first cousin call'd Arthur McBride,
+He and \[C]I took a \[G]stroll down \[C]by the sea\[Am]side
+a-\[G]seeking good fortune and what would betide,
+'Twas just as the \[D]morning was \[C]dawn\[D7]ing.
+Then \[G]after resting we \[C]both took a \[D7]tramp,
+We \[Am]met sergeant \[G]Harper and \[C]Corporal \[Am]Cramp,
+Be\[G]sides the wee \[Am]drummer that \[G/h]beat up for \[G/d]camp,
+With his \[G]Row-do-dow-\[D7]dow in the \[G]morning.
+\endverse
+
+\beginverse
+He says: "My good fellows, if you will enlist
+Ten guineas in gold you shall have in your fist,
+Besides a crown to kick up the dust
+And drink the king's health in the morning."
+"If we'd been such fools as to take the advance,
+The wee a bit more we had to run chance;
+For you think it no scruple to send us to France,
+Where we would be shot in the morning."
+\endverse
+
+\beginverse
+He says: "My good fellwos, if I hear but one word,
+I instantly now will out with my sword,
+And into your body as strength will afford,
+So now, my gay fellows, take warning!"
+But Arthur and I we took the odds,
+We gave them no time for to launch out their swords;
+With a spring o shillelag we paid them with blows
+And paid them right smart in the morning.
+\endverse
+
+\endsong

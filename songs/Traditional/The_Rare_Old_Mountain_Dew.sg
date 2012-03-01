@@ -1,0 +1,47 @@
+\selectlanguage{english}
+\songcolumns{2}
+\beginsong{Rare Old Mountain Dew}[by=Traditional]
+
+\lilypond{the_rare_old_mountain_dew}
+
+\beginverse
+Let the grasses grow, and the waters flow,
+in a free and easy way,
+But give me enough of the rare old stuff
+That's made near Galway Bay.
+Oh peelers all, from Donegal,
+Galway and Etrim too
+We'll give them a slip and we'll take a sip
+Of the rare old Mountain Dew
+\endverse
+
+\beginchorus
+thiddle i ay di diddle dum thiddle i ay di diddle dum
+thiddle i ay di diddle dum rum a dum dey
+thiddle i ay di diddle dum thiddle i ay di diddle dum
+thiddle i ay di diddle dum rum a dum dey
+\endchorus
+
+\beginverse
+There's a neat little still at the foot of the hill,
+Where the smoke curls up to the sky.
+By the smoke and the smell you can plainly tell,
+That there's whiskey brewing nearby.
+For it fills the air with odor rare,
+And betwixt both me and you,
+When home we roll, we can drink a bowl,
+Or a bucketful of Mountain Dew.
+\endverse
+
+\beginverse
+Now learned men as use the pen
+Who've wrote your praises high,
+This sweet 'pocheen' (potion) from Ireland's green
+Distilled from wheat and rye.
+Throw away your pills - it'll cure all ills
+Of Pagan or Christian or Jew.
+Take off your coat and free your throat
+With the rare old Mountain Dew.
+\endverse
+
+\endsong

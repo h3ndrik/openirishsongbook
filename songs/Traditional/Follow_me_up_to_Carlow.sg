@@ -1,0 +1,51 @@
+\selectlanguage{english}
+\songcolumns{2}
+\beginsong{Follow me up to Carlow}[by=Traditional]
+
+\lilypond{follow_me_up_to_carlow}
+
+\beginverse
+  \[Dm]Lift MacCahir \[C]Og your face
+  \[Dm]Brooding o’er the \[C]old dis\[Dm]grace
+  That black FitzWilliam \[C]stormed your place,
+  \[Dm]Drove you \[C]to the \[Dm]Fern
+  Grey said victory was sure
+  Soon the firebrand he’d secure;
+  Until he met at Glenmalure
+  With Feach MacHugh O’Byrne.
+\endverse
+
+\beginchorus
+  \[Am]Curse and swear Lord Kildare,
+  \[C]Feach will do what Feach will dare
+  \[Am]Now FitzWilliam, have a care
+  \[C]Fallen is your \[Dm]star, low.
+  \[Am]Up with halberd out with sword
+  \[C]On we’ll go for by the lord
+  \[Am]Feach MacHugh has \[G]given the \[C]word,
+  Follow me up to \[Dm]Carlow.
+\endchorus
+
+\beginverse
+  See the swords of Glen Imayle,
+  Flashing o’er the English pale
+  See all the children of the Gael,
+  Beneath O’Byrne’s banners
+  Rooster of the fighting stock,
+  Would you let a Saxon cock
+  Crow out upon an Irish rock,
+  Fly up and teach him manners.
+\endverse
+
+\beginverse
+  From Tassagart to Clonmore,
+  There flows a stream of Saxon gore
+  Oh, great is Rory Oge O’More,
+  At sending loons to Hades.
+  White is sick and Lane is fled,
+  Now for black FitzWilliam’s head
+  We’ll send it over, dripping red,
+  To Liza and her ladies.
+\endverse
+
+\endsong

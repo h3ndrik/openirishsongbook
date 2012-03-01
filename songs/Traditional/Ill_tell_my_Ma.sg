@@ -1,0 +1,49 @@
+\selectlanguage{english}
+\songcolumns{2}
+\beginsong{I'll Tell my Ma}[by=Traditional]
+
+\lilypond{ill_tell_my_ma}
+
+\beginverse
+I'll \[G]tell my ma when \[C]I get \[G]home,
+The \[D]boys won't leave the \[G]girls alone
+They \[G]pull my hair and \[C]stole my \[G]comb
+But \[D]that's all right till \[G]I go home
+\endverse
+
+\beginchorus
+\[G]She is handsome, \[C]she is pretty,
+\[G]She is the Belle of \[D]Belfast city
+\[G]She is a courtin' \[C]one, two, three,
+\[G]Please won't you \[D]tell me \[G]who is she.
+\endchorus
+
+\beginverse
+Albert Mooney says he loves her,
+All the boys are fightin' for her
+Knock at the door and ring at the bell,
+Saying oh my true love, are you well
+\endverse
+
+\beginverse
+Out she comes as white as snow,
+Rrings on her fingers, bells on her toes
+Ould Johnny Morrissey says she'll die
+If she doesn't get the fella with the roving eye
+\endverse
+
+\beginverse
+Let the wind and the rain and the hail blow high
+And the snow come travellin' through the sky
+She's as sweet as apple pie,
+She'll get her own lad by and by
+\endverse
+
+\beginverse
+When she gets a lad of her own
+She won't tell her ma when she gets home
+Let them all come as they will
+For it's Albert Mooney she loves still
+\endverse
+
+\endsong

@@ -1,0 +1,60 @@
+\selectlanguage{english}
+\songcolumns{2}
+\beginsong{Rattling Bog}[by=Traditional]
+
+\lilypond{the_rattling_bog}
+
+\beginchorus
+\[G]Hey ho, the \[C]rattlin' bog,
+The \[G]bog down in the \[D]valley-oh,
+\[G]Hey ho, the \[C]rattlin' bog,
+The \[G]bog down \[D]in the \[G]valley-oh.
+\endchorus
+
+\beginverse
+Now \[G]in the bog there was a tree,
+A rare tree, a \[D]rattlin' tree;
+The \[G]tree in the bog,
+And the \[G]bog down \[D]in the \[G]valley-oh.
+\endverse
+
+\beginverse
+Now on that tree there was a branch...
+A rare branch, a rattlin' branch;
+The branch on the tree,
+And the tree in the bog,
+And the bog down in the valley-oh.
+\endverse
+
+\beginverse
+... branch...
+\endverse
+\beginverse
+...twig...
+\endverse
+\beginverse
+...leaf...
+\endverse
+\beginverse
+...nest...
+\endverse
+\beginverse
+...egg...
+\endverse
+\beginverse
+...bird...
+\endverse
+\beginverse
+...wing...
+\endverse
+\beginverse
+...feather...
+\endverse
+\beginverse
+...flea...
+\endverse
+\beginverse
+...rash...
+\endverse
+
+\endsong

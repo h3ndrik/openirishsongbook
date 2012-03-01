@@ -1,0 +1,35 @@
+\selectlanguage{english}
+\songcolumns{2}
+\beginsong{Red is the Rose}[by=Traditional]
+
+\lilypond{red_is_the_rose}
+
+\beginverse
+Come \[D]over the hills, my \[A]bonnie Irish \[G]lass
+Come \[D]over the hills to your \[G]dar\[A]ling
+\[G]You choose the \[D]rose love, and \[G]I'll make the \[A]vow
+And \[D]I'll be your \[G]true \[D]love for \[A]ev\[D]er
+\endverse
+
+\beginverse
+Red is the rose that in yonder garden grows
+Fair is the lily of the valley
+Clear is the water that flows from the Boyne
+But my love is fairer than any
+\endverse
+
+\beginverse
+'Twas down by Killarney's green woods we strayed
+The moon and the stars they were shining
+The moon shone its rays on her locks of golden hair
+She swore she'd be my love forever
+\endverse
+
+\beginverse
+It's not for the parting that my sister pains
+It's not for the grief of my mother
+'Tis all for the loss of my bonnie Irish lass
+That my heart is breaking forever
+\endverse
+
+\endsong
