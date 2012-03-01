@@ -2,23 +2,25 @@
 \songcolumns{2}
 \beginsong{Rocky Road To Dublin}[by=Traditional]
 
+\lilypond{rocky_road_to_dublin}
+
 \beginverse
-In the \[Rém]merry \[Do]month of \[Rém]May, From my home I started,
-Left the \[Do]girls of \[Rém]Tuam, Nearly \[Do]broken hearted,
-\[Rém]Saluted \[Do]father \[Rém]dear, Kissed my darlin' mother,
-Drank a \[Do]pint of \[Rém]beer, My grief and \[Do]tears to smother,
-Then \[Rém]off to reap the \[Do]corn, And \[Rém]leave where I was \[Do]born,
-I \[Rém]cut a stout \[Do]blackthorn, To banish ghost and goblin,
-In a \[Rém]brand new pair of \[Do]brogues, I \[Rém]rattled o'er the \[Do]bogs,
-And \[Rém]frightened all the \[Do]dogs, On the rocky road to Dublin.
+In the \[Dm]merry \[C]month of \[Dm]May, From my home I started,
+Left the \[C]girls of \[Dm]Tuam, Nearly \[C]broken hearted,
+\[Dm]Saluted \[C]father \[Dm]dear, Kissed my darlin' mother,
+Drank a \[C]pint of \[Dm]beer, My grief and \[C]tears to smother,
+Then \[Dm]off to reap the \[C]corn, And \[Dm]leave where I was \[C]born,
+I \[Dm]cut a stout \[C]blackthorn, To banish ghost and goblin,
+In a \[Dm]brand new pair of \[C]brogues, I \[Dm]rattled o'er the \[C]bogs,
+And \[Dm]frightened all the \[C]dogs, On the rocky road to Dublin.
 \endverse
 
 \beginchorus
-\[Lam]One, two, \[Do]three, four \[Rém]five,
+\[Am]One, two, \[C]three, four \[Dm]five,
 Hunt the hare and turn her
 Down the rocky road
-And all the \[Do]ways to Dublin,
-\[Am]Whack-fol-\[Do]lol-de-\[Rém]ra.
+And all the \[C]ways to Dublin,
+\[Am]Whack-fol-\[C]lol-de-\[Dm]ra.
 \endchorus
 
 \beginverse

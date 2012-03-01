@@ -2,11 +2,13 @@
 \songcolumns{2}
 \beginsong{Leaving of Liverpool}[by=Traditional]
 
+\lilypond{leaving_of_liverpool}
+
 \beginverse
-\[La]Farewell to you my\[Ré] own true\[La] love,
-I am going far,far a\[Mi]way,
-I am\[La] bound for Cali\[Ré]forni\[La]a,
-And I know that I'll re\[Mi]turn some\[La] day.
+\[A]Farewell to you my\[D] own true\[A] love,
+I am going far,far a\[E]way,
+I am\[A] bound for Cali\[D]forni\[A]a,
+And I know that I'll re\[E]turn some\[A] day.
 \endverse
 
 \beginchorus

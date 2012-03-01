@@ -1,17 +1,19 @@
 \selectlanguage{english}
 \songcolumns{2}
-\beginsong{The Wild Rover}[by=Traditional]
+\beginsong{Wild Rover}[by=Traditional]
+
+\lilypond{wild_rover}
 
 \beginverse
-I've\[Sol] been a wild rover for many a\[Do] year
-And I've\[Sol] spent all me\[Ré] money on whiskey and\[Sol] beer
-But\[Sol] now im returning with gold in great\[Do] store
-And I\[Sol] never will\[Ré] play the wild rover no\[Sol] more
+I've\[G] been a wild rover for many a\[C] year
+And I've\[G] spent all me\[D] money on whiskey and\[G] beer
+But\[G] now im returning with gold in great\[C] store
+And I\[G] never will\[D] play the wild rover no\[G] more
 \endverse
 
 \beginchorus
-And it's\[Ré] no nay never\[Sol] no nay never no\[Do] more
-Will I\[Sol] play the wild\[Do] rover,no\[Sol] never\[Ré] no\[Sol] more
+And it's\[D] no nay never\[G] no nay never no\[C] more
+Will I\[G] play the wild\[C] rover,no\[G] never\[D] no\[G] more
 \endchorus
 
 \beginverse

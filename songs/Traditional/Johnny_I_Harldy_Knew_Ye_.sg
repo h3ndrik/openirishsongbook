@@ -2,13 +2,15 @@
 \songcolumns{2}
 \beginsong{Johnny, I Harldy Knew Ye !}[by=Traditional]
 
+\lilypond{johnny_i_hardly_knew_ye}
+
 \beginverse
-While \[Mim]goin' the road to sweet Athy, \[Sol]Hurroo! Hurroo !
-While \[Mim]goin' the road to sweet Athy, \[Sol]Hurroo! \[Si7]Hurroo !
-While \[Mim]goin' the road to \[Lam]sweet Athy,
-A \[Sol]stick in the hand and a \[Si7]drop in the eye
-A \[Mim]doleful \[Lam]damsel \[Sol]I heard \[Si7]cry,
-\[Mim]Johnny I \[Ré]hardly \[Mim]knew ye !
+While goin' the road to sweet Athy, Hurroo! Hurroo !
+While goin' the road to sweet Athy, Hurroo! Hurroo !
+While goin' the road to sweet Athy,
+A stick in the hand and a drop in the eye
+A doleful damsel I heard cry,
+Johnny I hardly knew ye!
 \endverse
 
 \beginchorus

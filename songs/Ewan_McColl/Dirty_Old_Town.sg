@@ -2,11 +2,13 @@
 \songcolumns{2}
 \beginsong{Dirty Old Town}[by=Ewan McColl]
 
+\lilypond{dirty_old_town}
+
 \beginverse
-I met my \[Sol]love, by the gas yard wall
-Dreamed a \[Do]dream, by the old \[Sol]canal
-Kissed my \[Mim]girl, by the factory \[Sol]wall
-Dirty old \[Ré]town, dirty old \[Mim]town
+I met my \[C]love, by the \[F]gas yard wall \[C7]
+Dreamed a \[F]dream, by the old \[C]canal
+\[F]Kissed \[C]my \[Am]girl, by the \[F]factory \[C]wall
+Dirty old \[Dm]town, \[G]dirty old \[Am]town
 \endverse
 
 \beginverse

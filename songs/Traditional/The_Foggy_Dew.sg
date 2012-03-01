@@ -1,40 +1,62 @@
 \selectlanguage{english}
 \songcolumns{2}
-\beginsong{The Foggy Dew}[by=Traditional]
+\beginsong{Foggy Dew}[by=Traditional]
+
+\lilypond{the_foggy_dew}
 
 \beginverse
-As\[Mim] down the glen one Easter\[Ré] morn to a\[Sol] city \[Mim]fair rode I
-There\[Mim] Armed lines of marching\[Ré] men in \[Sol]squadrons\[Mim] passed me by
-No\[Sol] fife did hum nor\[Ré] battle\[Sim] drum did\[Sol] sound it's \[Mim]dread tatoo
-But the\[Mim] Angelus bell o'er the Liffey\[Ré] swell rang\[Sol] out through the\[Mim] foggy dew
+As \[Am]down the glen one \[G]Easter \[Em]morn
+ to a \[Am]city \[G]fair rode \[Am]I
+There \[Am]Armed lines of \[G]marching \[Em]men
+ in \[Am]squadrons \[Dm]passed me \[Am]by
+No \[C]pipe did hum no \[G]battle \[C]drum
+ did \[Am]sound it's \[Em]dread \[F]ta\[G]too
+But the \[Am]Angelus bell o'er the \[G]Liffey \[Em]swell
+ rang \[Am]out through the \[Dm]foggy \[Am]dew
 \endverse
 
 \beginverse
-Right proudly high over Dublin Town they hung out the flag of war
-'Twas better to die 'neath an Irish sky than at Sulva or Sud El Bar
-And from the plains of Royal Meath strong  men came hurrying through
-While Britannia's Huns, with their long range guns sailed in through the foggy dew
+Right proudly high over Dublin Town
+ they hung out the flag of war
+'Twas better to die 'neath an Irish sky
+ than at Sulva or Sud El Bar
+And from the plains of Royal Meath
+ strong men came hurrying through
+While Britannia's Huns, with their long range guns
+ sailed in through the foggy dew
 \endverse
 
 \beginverse
-'Twas Britannia bade our Wild Geese go that small nations might be free
-But their lonely graves are by Sulva's waves or the shore of the Great North Sea
-Oh, had they died by Pearse's side or fought with Cathal Brugha
-Their names we will keep where the fenians sleep 'neath the shroud of the foggy dew
+'Twas Britannia bade our Wild Geese
+ go that small nations might be free
+But their lonely graves are by Sulva's waves
+ or the shore of the Great North Sea
+Oh, had they died by Pearse's side
+ or fought with Cathal Brugha
+Their names we will keep where the fenians sleep
+ 'neath the shroud of the foggy dew
 \endverse
 
 \beginverse
-But the bravest fell, and the requiem bell rang mournfully and clear
-For those who died that Eastertide in the springing of the year
-And the world did gaze, in deep amaze, at those fearless men, but few
-Who bore the fight that freedom's light might shine through the foggy dew
+But the bravest fell, and the requiem bell
+ rang mournfully and clear
+For those who died that Eastertide
+ in the springing of the year
+And the world did gaze, in deep amaze,
+ at those fearless men, but few
+Who bore the fight that freedom's light
+ might shine through the foggy dew
 \endverse
 
 \beginverse
-Ah, back through the glen I rode again and my heart with grief was sore
-For I parted then with valiant men whom I never shall see more
-But to and fro in my dreams I go and I'd kneel and pray for you,
-For slavery fled, O glorious dead, When you fell in the foggy dew    
+Ah, back through the glen I rode again
+ and my heart with grief was sore
+For I parted then with valiant men
+ whom I never shall see more
+But to and fro in my dreams
+ I go and I'd kneel and pray for you,
+For slavery fled, O glorious dead,
+ When you fell in the foggy dew    
 \endverse
 
 \endsong
