@@ -14,9 +14,9 @@
   indent = 0\cm
   between-system-padding = 1\mm
 
-  paper-width = 7.5\cm
-  line-width = 7\cm
+  paper-width = 9\cm
+  line-width = 8.5\cm
   paper-height = 1.6\cm
 }
 
-#(set-global-staff-size 12)
+#(set-global-staff-size 14)
