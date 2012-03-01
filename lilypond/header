@@ -2,8 +2,8 @@
 
 \paper
 {
-  make-footer=##f
-  make-header=##f
+  %make-footer=##f
+  %make-header=##f
 
   left-margin = 0\cm
   top-margin = 0\cm
